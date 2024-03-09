@@ -1,0 +1,2 @@
+1. racket
+2. shuttlecock
